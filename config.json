@@ -1,0 +1,12 @@
+{
+  "tickers": [
+    "005930.KS",
+    "035720.KS",
+    "AAPL"
+  ],
+  "period": "1y",
+  "interval": "1d",
+  "save_dir_data": "./data",
+  "save_dir_charts": "./charts",
+  "save_dir_reports": "./reports"
+}
