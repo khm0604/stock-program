@@ -1,4 +1,6 @@
 streamlit
 pandas
 yfinance
+rapidfuzz
+python-Levenshtein
 matplotlib
